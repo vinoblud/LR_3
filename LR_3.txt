@@ -1,0 +1,8 @@
+git branch version_2 
+git branch version_3
+git checkout version_2
+git checkout version_3
+git checkout master
+git marge version_2
+git branch -d version_3
+git push -u origin master
